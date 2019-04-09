@@ -1,0 +1,7 @@
+D:\18.11.2359\OOP\oop\oop\bin\Debug\oop.exe.config
+D:\18.11.2359\OOP\oop\oop\bin\Debug\oop.exe
+D:\18.11.2359\OOP\oop\oop\bin\Debug\oop.pdb
+D:\18.11.2359\OOP\oop\oop\obj\Debug\oop.csprojAssemblyReference.cache
+D:\18.11.2359\OOP\oop\oop\obj\Debug\oop.csproj.CoreCompileInputs.cache
+D:\18.11.2359\OOP\oop\oop\obj\Debug\oop.exe
+D:\18.11.2359\OOP\oop\oop\obj\Debug\oop.pdb
